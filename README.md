@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 I'm a **Junior Software Engineer (Android)** with experience in mobile app development using **Java** and **Kotlin**.
+- 💼 I'm a **Software Engineer (Android)** with experience in mobile app development using **Java** and **Kotlin**.
 - 📱 Currently working on real-time transit apps and pet tracking systems at **MobileFirst Applications Pvt. Ltd.**
 - 🎓 Completing my **MCA from Galgotias University** (2022–2024), with a strong academic record.
 - 💬 Ask me about **Android App Development, Firebase, MVVM, Retrofit, Jetpack Libraries, Kotlin Coroutines**, and more.
@@ -50,9 +50,7 @@
 - 📫 Email: kumar.prabhat110023@gmail.com  
 
 
----
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
 
 
