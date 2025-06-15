@@ -28,24 +28,6 @@
 - **Tools & Platforms:** Android Studio, Git, GitHub  
 - **Database:** MySQL
 
----
-
-### 💼 Work Experience
-
-**Android Developer Trainee** – MobileFirst Applications Pvt Ltd (Jan 2024 – Present)  
-- Contributed to **RTC, RTD, MDT** transit apps.  
-- Published updates on the Play Store and resolved **Account Manager-based authentication** issues.  
-- Improved app UI and fixed critical bugs.
-
-**Junior Software Engineer (Intern)** – inGen Dynamics Inc. (Jun 2022 – Feb 2023)  
-- Developed a modular launcher app for an integrated system.  
-- Implemented **auto-launch on boot** and optimized **bitmap face similarity** detection.
-
-**Android Intern** – TelEmpathy (Sep 2021 – Nov 2021)  
-- Built mental health toolkit UI with progress bars.  
-- Collaborated on dynamic app modules.
-
----
 
 ### 📱 Personal Projects
 
@@ -66,7 +48,7 @@
 
 - 📍 Greater Noida, India  
 - 📫 Email: kumar.prabhat110023@gmail.com  
-- 📞 Phone: +91 7419199550
+
 
 ---
 
