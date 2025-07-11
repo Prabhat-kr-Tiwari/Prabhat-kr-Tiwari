@@ -11,11 +11,11 @@
 
 ### 👨‍💻 About Me
 
-- 💼 I'm a **Software Engineer (Android)** with experience in mobile app development using **Java** and **Kotlin**.
-- 📱 Currently working on real-time transit apps and pet tracking systems at **MobileFirst Applications Pvt. Ltd.**
-- 🎓 Completing my **MCA from Galgotias University** (2022–2024), with a strong academic record.
-- 💬 Ask me about **Android App Development, Firebase, MVVM, Retrofit, Jetpack Libraries, Kotlin Coroutines**, and more.
-- 📝 I write tech articles to help others on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/kumarprabhat110023/articles), with **2.5K+ reads**.
+-  I'm a **Software Engineer (Android)** with experience in mobile app development using **Java** and **Kotlin**.
+-  Currently working on real-time transit apps and pet tracking systems at **MobileFirst Applications Pvt. Ltd.**
+-  Completing my **MCA from Galgotias University** (2022–2024), with a strong academic record.
+-  Ask me about **Android App Development, Firebase, MVVM, Retrofit, Jetpack Libraries, Kotlin Coroutines**, and more.
+-  I write tech articles to help others on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/kumarprabhat110023/articles), with **2.5K+ reads**.
 
 ---
 
@@ -31,23 +31,23 @@
 
 ### 📱 Personal Projects
 
-- 🔐 **[Encrypted Messenger App](#)** – Secure messaging using RSA, AES & DES.
-- 🍽️ **[Zomato Clone](#)** – MVVM architecture, Retrofit APIs, JSON/XML support.
-- 🎓 **[Campus Connect](#)** – Kotlin + Firebase app for university students with real-time chat and user profiles.
-- 📝 **[Notes App](#)** – Built with Jetpack Compose, Clean Architecture, Room DB, Dagger Hilt, Flow.
+-  **[Encrypted Messenger App](#)** – Secure messaging using RSA, AES & DES.
+-  **[Zomato Clone](#)** – MVVM architecture, Retrofit APIs, JSON/XML support.
+-  **[Campus Connect](#)** – Kotlin + Firebase app for university students with real-time chat and user profiles.
+-  **[Notes App](#)** – Built with Jetpack Compose, Clean Architecture, Room DB, Dagger Hilt, Flow.
 
 ---
 
-### 🏆 Certifications
+###  Certifications
 
-- 🏅 **Android App Development** – Internshala
+-  **Android App Development** – Internshala
 
 ---
 
-### 🌱 Let's Connect!
+###  Let's Connect!
 
-- 📍 Greater Noida, India  
-- 📫 Email: kumar.prabhat110023@gmail.com  
+-  Greater Noida, India  
+-  Email: kumar.prabhat110023@gmail.com  
 
 
 
