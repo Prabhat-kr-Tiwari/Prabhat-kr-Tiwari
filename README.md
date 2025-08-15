@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prabhat Kumar Tiwari</h1>
+
+<img width="3780" height="1890" alt="HI (1)" src="https://github.com/user-attachments/assets/948e55fb-2389-417b-8a23-ab560af18103" />
+
 <h3 align="center">Android Developer | MCA Graduate | Tech Enthusiast</h3>
 
 <p align="center">
