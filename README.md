@@ -1,5 +1,4 @@
-<img width="3780" height="1890" alt="HI (3)" src="https://github.com/user-attachments/assets/fb691c49-ec05-4916-8377-fdfcc0943065" />
-
+<img width="3780" height="1890" alt="HI (4)" src="https://github.com/user-attachments/assets/5b137138-097b-40a0-aaea-100d20c292b3" />
 <h3 align="center">Android Developer | MCA Graduate | Tech Enthusiast</h3>
 
 <p align="center">
